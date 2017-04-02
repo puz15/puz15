@@ -2,7 +2,7 @@
 
 ## Supports
 -----------
-* Custom board sideLength
+* Custom board side length
 * Multiple blanks (future)
 
 
